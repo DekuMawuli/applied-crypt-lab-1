@@ -4,6 +4,8 @@ A small Python/Tkinter program that encrypts and decrypts files. Each byte is bi
 
 The key, polynomial and permutation come from slide 19 of Lecture 2. The assignment is in [lab1_question.md](lab1_question.md).
 
+Source repository: <https://github.com/DekuMawuli/applied-crypt-lab-1>
+
 ## Folder structure
 
 ```
