@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.tmp
+lab1_submission.zip
+/Lecture_02_AC_Fall2026.pdf
+/lectur_01_AC_Fall2026.pdf
+/image1.jpg.enc
+/image2.jpg
+/image2.jpg.enc
+/image2_dec.jpg
+/demo/

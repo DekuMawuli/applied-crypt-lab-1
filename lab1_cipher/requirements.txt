@@ -1,0 +1,4 @@
+# No third-party packages are required.
+# The program uses only the Python 3 standard library (tkinter, os, queue, threading).
+# tkinter must be available in your Python install (it ships with the python.org installer;
+# with Homebrew run: brew install python-tk).
